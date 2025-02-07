@@ -61,6 +61,8 @@ app.listen(port, callback): Starts the Express server and listens on the specifi
 
 By exucuting all the code correctly, we can run our server on a browser as a localhost on port:3000
 
+![Image](https://github.com/user-attachments/assets/99d4ca65-941b-4100-bb46-13a8282ba884)
+
 
 
 # CONCLUSION:
