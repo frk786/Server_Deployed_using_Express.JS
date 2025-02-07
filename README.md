@@ -57,6 +57,10 @@ res.send(""): Sends a simple HTML response.
 
 app.listen(port, callback): Starts the Express server and listens on the specified port. The callback function runs when the server starts and logs a message.
 
+## 5. Testing the Server
+
+By exucuting all the code correctly, we can run our server on a browser as a localhost on port:3000
+
 
 
 # CONCLUSION:
